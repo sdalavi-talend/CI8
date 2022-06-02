@@ -1,1 +1,16 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_P59dYOKmEey_CfA3jF8yPg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "CI8:_-CVMQKQiEeyCvJHswdxYQA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "CI8:_aJYpIOKCEey_CfA3jF8yPg",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+} ]
